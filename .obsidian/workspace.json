@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "7f100682ea89a536",
+        "id": "2d501c97a067d857",
         "type": "tabs",
         "children": [
           {
-            "id": "c885863e16039bb1",
+            "id": "5d476e17f650c4ab",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Main Notes/readme.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Main Notes/readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Main Notes/readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Main Notes/readme.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -146,8 +138,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c885863e16039bb1",
+  "active": "700938c4eb1e802c",
   "lastOpenFiles": [
+    "Main Notes/hey.md",
+    "Main Notes/New.md",
+    "Canvas/Untitled.canvas",
     "Main Notes/readme.md",
     "notes",
     "Obsidian",
