@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "2d501c97a067d857",
+        "id": "c5a0bd281676ed07",
         "type": "tabs",
         "children": [
           {
-            "id": "5d476e17f650c4ab",
+            "id": "687605e7f4c7e0e8",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -138,8 +138,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "700938c4eb1e802c",
+  "active": "687605e7f4c7e0e8",
   "lastOpenFiles": [
+    "Main Notes/Untitled.md",
     "Main Notes/hey.md",
     "Main Notes/New.md",
     "Canvas/Untitled.canvas",
