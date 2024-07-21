@@ -65,7 +65,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e91dc4b5d694e7b",
@@ -140,7 +141,8 @@
   },
   "active": "687605e7f4c7e0e8",
   "lastOpenFiles": [
-    "Main Notes/Untitled.md",
+    "conflict-files-obsidian-git.md",
+    "Main Notes/new.md",
     "Main Notes/hey.md",
     "Main Notes/New.md",
     "Canvas/Untitled.canvas",
