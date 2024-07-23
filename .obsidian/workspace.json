@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c5a0bd281676ed07",
+        "id": "206ab13c22778ef6",
         "type": "tabs",
         "children": [
           {
-            "id": "687605e7f4c7e0e8",
+            "id": "2afd7b949251c880",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Projects/Dora.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ]
@@ -65,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e91dc4b5d694e7b",
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Projects/Dora.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Projects/Dora.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Projects/Dora.md"
+              }
             }
           }
         ]
@@ -139,8 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "687605e7f4c7e0e8",
+  "active": "2afd7b949251c880",
   "lastOpenFiles": [
+    "Tags/next-js.md",
+    "Tags/side-project.md",
+    "Projects/Dora.md",
+    "Tags/next js.md",
+    "Templates/project.md",
     "conflict-files-obsidian-git.md",
     "Main Notes/new.md",
     "Main Notes/hey.md",
