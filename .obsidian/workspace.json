@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Projects/Dora.md",
+                "file": "Private/OpenVPN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Projects/Dora.md",
+                "file": "Private/OpenVPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Projects/Dora.md",
+                "file": "Private/OpenVPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Projects/Dora.md"
+                "file": "Private/OpenVPN.md"
               }
             }
           }
@@ -149,9 +149,11 @@
   },
   "active": "2afd7b949251c880",
   "lastOpenFiles": [
+    "Projects/Dora.md",
+    "Private/OpenVPN.md",
+    "Private",
     "Tags/next-js.md",
     "Tags/side-project.md",
-    "Projects/Dora.md",
     "Tags/next js.md",
     "Templates/project.md",
     "conflict-files-obsidian-git.md",
