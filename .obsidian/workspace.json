@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "Projects/Dora.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "Main Notes/Connecting project to supertokens.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "Main Notes/Connecting project to supertokens.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/OpenVPN.md"
+                "file": "Main Notes/Connecting project to supertokens.md"
               }
             }
           }
@@ -147,9 +147,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2afd7b949251c880",
+  "active": "700938c4eb1e802c",
   "lastOpenFiles": [
     "Projects/Dora.md",
+    "Main Notes/Connecting project to supertokens.md",
     "Private/OpenVPN.md",
     "Private",
     "Tags/next-js.md",

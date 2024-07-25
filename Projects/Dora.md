@@ -9,7 +9,7 @@ A web application that acts as a middle man for the buying and selling of electr
 ## Built With:
 - #### Front-End : Next JS
 - #### Back-End: 
-- #### Authentication:
+- #### Authentication: Supertokens Auth
 - #### Database: 
 - #### Styling: TailwindCSS
 
@@ -26,3 +26,4 @@ A web application that acts as a middle man for the buying and selling of electr
 - [ ] Create Database and insert mock data
 - [ ] Create product page
 - [ ] Create category page
+
