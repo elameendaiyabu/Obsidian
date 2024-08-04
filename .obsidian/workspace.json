@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "60 - Private/OpenVPN.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "60 - Private/OpenVPN.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Private/OpenVPN.md",
+                "file": "60 - Private/OpenVPN.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Private/OpenVPN.md"
+                "file": "60 - Private/OpenVPN.md"
               }
             }
           }
@@ -147,16 +147,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2afd7b949251c880",
+  "active": "700938c4eb1e802c",
   "lastOpenFiles": [
-    "Projects/Dora.md",
-    "Main Notes/Connecting project to supertokens.md",
-    "Private/OpenVPN.md",
-    "Private",
-    "Tags/next-js.md",
-    "Tags/side-project.md",
+    "30 - Projects/Dora.md",
+    "20 - Main Notes/Connecting project to supertokens.md",
+    "60 - Private/OpenVPN.md",
+    "60 - Private",
+    "50 - Tags/next-js.md",
+    "50 - Tags/side-project.md",
     "Tags/next js.md",
-    "Templates/project.md",
+    "70 - Templates/project.md",
     "conflict-files-obsidian-git.md",
     "Main Notes/new.md",
     "Main Notes/hey.md",
@@ -165,16 +165,16 @@
     "Main Notes/readme.md",
     "notes",
     "Obsidian",
-    "Projects",
+    "30 - Projects",
     "Main Notes/hey.md",
     "Main Notes/19-07-2024.md",
-    "Canvas",
+    "00 - Canvas",
     "Untitled.canvas",
-    "Templates",
-    "Source Materials",
-    "Tags",
-    "Main Notes",
-    "Rough Notes",
+    "70 - Templates",
+    "40 - Source Materials",
+    "50 - Tags",
+    "20 - Main Notes",
+    "10 - Rough Notes",
     "Welcome.md"
   ]
 }
