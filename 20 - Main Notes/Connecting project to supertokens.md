@@ -1,3 +1,6 @@
+### tags: [[next-js]]
+---
+
 Adding login to your Next.js app using the app directory with SuperTokens
 
 This blog explains how to setup email password and social login with SuperTokens using the app directory in Next.js.
