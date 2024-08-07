@@ -1,5 +1,6 @@
 ### tags: [[next-js]]
 ---
+#next-stuff
 
 Adding login to your Next.js app using the app directory with SuperTokens
 
