@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "50 - Tags/go.md",
+                "file": "40 - Source Materials/SITES.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -70,7 +70,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e91dc4b5d694e7b",
@@ -86,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "50 - Tags/go.md",
+                "file": "40 - Source Materials/SITES.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "50 - Tags/go.md",
+                "file": "40 - Source Materials/SITES.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "50 - Tags/go.md"
+                "file": "40 - Source Materials/SITES.md"
               }
             }
           }
@@ -149,12 +150,12 @@
   },
   "active": "b6355aa1d088693d",
   "lastOpenFiles": [
+    "50 - Tags/go.md",
     "40 - Source Materials/SITES.md",
     "30 - Projects/Dora.md",
     "20 - Main Notes/Connecting project to supertokens.md",
     "20 - Main Notes/Learning GO.md",
     "50 - Tags/next-js.md",
-    "50 - Tags/go.md",
     "Untitled.md",
     "60 - Private/OpenVPN.md",
     "60 - Private",
