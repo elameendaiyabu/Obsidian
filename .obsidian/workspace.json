@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 - Source Materials/SITES.md",
+                "file": "10 - Rough Notes/Making arch post-install script.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
@@ -87,7 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "40 - Source Materials/SITES.md",
+                "file": "10 - Rough Notes/Making arch post-install script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "40 - Source Materials/SITES.md",
+                "file": "10 - Rough Notes/Making arch post-install script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "40 - Source Materials/SITES.md"
+                "file": "10 - Rough Notes/Making arch post-install script.md"
               }
             }
           }
@@ -150,8 +150,9 @@
   },
   "active": "b6355aa1d088693d",
   "lastOpenFiles": [
-    "50 - Tags/go.md",
     "40 - Source Materials/SITES.md",
+    "10 - Rough Notes/Making arch post-install script.md",
+    "50 - Tags/go.md",
     "30 - Projects/Dora.md",
     "20 - Main Notes/Connecting project to supertokens.md",
     "20 - Main Notes/Learning GO.md",
