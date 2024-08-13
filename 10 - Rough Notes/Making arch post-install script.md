@@ -1,6 +1,6 @@
 ### Notes
 - [ ] automate open-vpn setup
-- [ ] switch capslock and escape
+- [x] switch capslock and escape
 - [ ] setup tmux
 - [ ] setup node
 - [x] setup yay
@@ -97,3 +97,13 @@ pokemon-colorscripts-git|zsh                           # display pokemon sprites
 
 ### HyDE
 hyde-cli-git                                           # cli tool to manage hyde
+
+
+#### copy to /etc/vconsole.conf to load custom keyboard conf on startup
+KEYMAP=/usr/local/share/kbd/keymaps/personal.map
+
+
+
+
+
+
