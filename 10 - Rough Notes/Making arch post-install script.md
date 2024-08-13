@@ -1,5 +1,5 @@
 ### Notes
-- [ ] automate open-vpn setup
+- [x] automate open-vpn setup
 - [x] switch capslock and escape
 - [ ] setup tmux
 - [ ] setup node

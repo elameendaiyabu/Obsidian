@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e91dc4b5d694e7b",
@@ -150,15 +149,15 @@
   },
   "active": "b6355aa1d088693d",
   "lastOpenFiles": [
-    "40 - Source Materials/SITES.md",
+    "60 - Private/OpenVPN.md",
     "10 - Rough Notes/Making arch post-install script.md",
+    "40 - Source Materials/SITES.md",
     "50 - Tags/go.md",
     "30 - Projects/Dora.md",
     "20 - Main Notes/Connecting project to supertokens.md",
     "20 - Main Notes/Learning GO.md",
     "50 - Tags/next-js.md",
     "Untitled.md",
-    "60 - Private/OpenVPN.md",
     "60 - Private",
     "50 - Tags/side-project.md",
     "Tags/next js.md",
