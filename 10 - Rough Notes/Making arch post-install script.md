@@ -1,14 +1,14 @@
 ### Notes
 - [x] automate open-vpn setup
 - [x] switch capslock and escape
-- [ ] setup tmux
-- [ ] setup node
+- [x] setup tmux
+- [x] setup node
 - [x] setup yay
 - [x] install yay apps
-- [ ] setup btop
+- [x] setup btop
 - [ ] setup hyprland and all add ons
-- [ ] setup personal git and add all configs
-- [ ] setup oh my posh
+- [x] setup personal git and add all configs
+- [x] setup oh my posh
 
 ###  Git Configs
 user.name= ...
